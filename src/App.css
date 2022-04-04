@@ -3,3 +3,28 @@
   margin: 0;
   padding: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 100px;
+  margin: 0px auto;
+}
+
+.current-city {
+  font-size: 35px;
+}
+
+.city-col {
+  align-self: center;
+}
+.current-temp {
+  align-self: center;
+  font-size: 35px;
+}
+
+.description-col {
+  text-align: center;
+}
