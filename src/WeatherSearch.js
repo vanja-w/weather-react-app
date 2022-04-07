@@ -179,6 +179,15 @@ export default function WeatherSearch() {
               />
             </Col>
           </Row>
+          <small>
+            <a
+              href="https://github.com/vanja-w/weather-react-app"
+              target="_blank"
+            >
+              Open-source code
+            </a>
+            , by Vanja Wallace
+          </small>
         </Container>
       </div>
     );
