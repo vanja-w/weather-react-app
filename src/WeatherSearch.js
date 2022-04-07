@@ -180,16 +180,6 @@ export default function WeatherSearch() {
             </Col>
           </Row>
         </Container>
-        <small>
-          <a
-            href="https://github.com/vanja-w/weather-react-app"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Open-source code
-          </a>
-          , by Vanja Wallace
-        </small>
       </div>
     );
   } else {
